@@ -1,14 +1,11 @@
 <div align="center">
 
-**Tanmoy Changkakati**
-
-*Software Development Engineer*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C6FF&height=200&section=header&text=Tanmoy%20Changkakati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 ![Websites](https://img.shields.io/badge/Websites-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
 ![Apps](https://img.shields.io/badge/Apps-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
-
 
 </div>
 
@@ -77,3 +74,12 @@
 `Authentication & Authorization` · `Caching` · `Scalability`
 `Performance Optimization` · `Debugging`
 
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C6FF&height=120&section=footer" width="100%" />
+
+*"Simplicity is the soul of efficiency."* — Austin Freeman
+
+</div>
