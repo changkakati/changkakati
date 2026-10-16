@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Tanmoy Changkakati</h2>
+**Tanmoy Changkakati**
 
 *Software Development Engineer*
 
