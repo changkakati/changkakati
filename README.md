@@ -81,11 +81,3 @@
 `Authentication & Authorization` · `Caching` · `Scalability`
 `Performance Optimization` · `Debugging`
 
-
----
-
-<div align="center">
-
-*"Simplicity is the soul of efficiency."* — Austin Freeman
-
-</div>
