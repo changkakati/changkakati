@@ -1,14 +1,14 @@
 <div align="center">
 
-Tanmoy Changkakati
+**Tanmoy Changkakati**
 
-**SDE**
+*SDE*
 
 </div>
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -66,7 +66,7 @@ Tanmoy Changkakati
 
 ---
 
-### 📐 Foundations
+### Foundations
 
 `Data Structures & Algorithms` · `OOP` · `SOLID Principles` · `MVC Architecture`
 `RESTful API Design` · `System Design` · `Database Design & Normalization`
