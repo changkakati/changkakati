@@ -1,8 +1,7 @@
 <div align="center">
 
 **Tanmoy Changkakati**
-
-*SDE*
+*Software Development Engineer*
 
 </div>
 
