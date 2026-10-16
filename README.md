@@ -8,7 +8,15 @@
 
 ---
 
-### Tech Stack
+### Interests
+
+![Websites](https://img.shields.io/badge/Websites-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
+![Apps](https://img.shields.io/badge/Apps-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+
+
+---
 
 **Languages**
 
@@ -72,6 +80,7 @@
 `RESTful API Design` · `System Design` · `Database Design & Normalization`
 `Authentication & Authorization` · `Caching` · `Scalability`
 `Performance Optimization` · `Debugging`
+
 
 ---
 
