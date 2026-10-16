@@ -8,6 +8,10 @@
 ![Apps](https://img.shields.io/badge/Apps-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+![UX%2FUI](https://img.shields.io/badge/UX%2FUI_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Self--Hosting](https://img.shields.io/badge/Self--Hosting-607D8B?style=flat-square&logo=selfhosted&logoColor=white)
+![Home%20Lab](https://img.shields.io/badge/Home_Lab-4E4E4E?style=flat-square&logo=raspberrypi&logoColor=white)
+![Servers](https://img.shields.io/badge/Servers_%26_Config-333333?style=flat-square&logo=gnubash&logoColor=white)
 
 
 </div>
