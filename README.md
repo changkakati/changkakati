@@ -1,16 +1,21 @@
-## Hi there 👋
+## stack
 
-<!--
-**changkakati/changkakati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+Python · JavaScript · TypeScript · HTML/CSS · SQL
 
-Here are some ideas to get you started:
+**Frontend**
+React.js · Next.js · Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+Node.js · Express.js · Django · Django REST Framework · FastAPI
+
+**Databases**
+PostgreSQL · MySQL · SQLite · Redis
+
+**DevOps & Cloud**
+Docker · GitHub Actions (CI/CD) · AWS · Linux · Nginx · PM2 · VPS · Vercel · Cloudflare
+
+**Foundations**
+Data Structures & Algorithms · OOP · SOLID Principles · MVC Architecture
+RESTful API Design · System Design · Database Design & Normalization
+Authentication & Authorization · Caching · Scalability · Performance Optimization · Debugging
