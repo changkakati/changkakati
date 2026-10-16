@@ -4,9 +4,10 @@
 
 *Software Development Engineer*
 
-![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
+
 ![Websites](https://img.shields.io/badge/Websites-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)
 ![Apps](https://img.shields.io/badge/Apps-3DDC84?style=flat-square&logo=android&logoColor=white)
+![AI](https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![UX%2FUI](https://img.shields.io/badge/UX%2FUI_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white)
 ![Self--Hosting](https://img.shields.io/badge/Self--Hosting-607D8B?style=flat-square&logo=selfhosted&logoColor=white)
