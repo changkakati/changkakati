@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Tanmoy Changkakati
+Tanmoy Changkakati
 
-**Full-Stack Developer · Building scalable, production-ready applications**
+**SDE**
 
 </div>
 
